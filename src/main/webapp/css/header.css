@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.main-header{
+	background-color:red;
+	display:flex;
+	
+}
+.main-con-header{
+	display:flex;
+	flex-direction:row;
+	border:2px solid yellow;
+}
+ul{
+	display:flex;
+	gap:10px;
+	list-style-type:none;
+}
