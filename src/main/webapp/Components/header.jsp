@@ -17,7 +17,7 @@
 					<li>Home</li>
 					<li>About</li>
 					<li>Contact</li>
-					<li>Login</li>
+					<li><a href='./login.jsp'>Login</a></li>
 				</ul>
 			</div>
 		</div>
